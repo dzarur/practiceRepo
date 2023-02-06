@@ -1,0 +1,3 @@
+superSecret.csv
+*.DS_Store
+results/*secret*.csv
